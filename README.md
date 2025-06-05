@@ -9,4 +9,5 @@ Clean and responsive inline CSS styling.
 Fun and motivational user experience.
 
 Output:
-
+![Screenshot 2025-06-05 120355](https://github.com/user-attachments/assets/33297bbd-a17d-4911-8792-039df380a53b)
+![Screenshot 2025-06-05 120413](https://github.com/user-attachments/assets/78e2a487-720e-41d7-b99e-2f067f61a805)
